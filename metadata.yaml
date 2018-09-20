@@ -1,0 +1,31 @@
+_repo: The-Southern-States-March-1894-An-illustrated-monthly-magazine-devoted-to-the-South_53231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Edmonds, William H.
+    gutenberg_agent_id: '47277'
+    url: http://www.gutenberg.org/2009/agents/47277
+description: ''
+gutenberg_issued: '2016-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Industries -- Periodicals'
+- !lcsh 'Southern States -- Periodicals'
+- !lcc 'F206'
+- !lcsh 'Agriculture -- Southern States -- Periodicals'
+- GITenberg
+title: 'The Southern States, March, 1894
+
+  An illustrated monthly magazine devoted to the South'
+url: http://www.gutenberg.org/ebooks/53231
