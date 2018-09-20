@@ -1,5 +1,8 @@
 _repo: The-Southern-States-March-1894-An-illustrated-monthly-magazine-devoted-to-the-South_53231
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53231-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47277'
     url: http://www.gutenberg.org/2009/agents/47277
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53231#The-Southern-States-March-1894-An-illustrated-monthly-magazine-devoted-to-the-South
 gutenberg_issued: '2016-10-08'
 gutenberg_type: Text
 identifiers:
